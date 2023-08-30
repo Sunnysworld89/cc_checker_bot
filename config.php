@@ -9,7 +9,7 @@
 | It can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['botToken'] = "2102336109:AAFparAwKuBLqHw2bQtSSCjNTaD9DNZaSIk";
+$config['botToken'] = "6314280107:AAFMDQyywgGEXt-EZC513OwPKArQL0sA9CM";
 
 /*
 |--------------------------------------------------------------------------
@@ -20,7 +20,7 @@ $config['botToken'] = "2102336109:AAFparAwKuBLqHw2bQtSSCjNTaD9DNZaSIk";
 | ID can be obtained from https://telegram.dog/username_to_id_bot
 |
 */
-$config['adminID'] = "@DIOS_SERBEROViP";
+$config['adminID'] = "@disconnected11";
 
 /*
 |--------------------------------------------------------------------------
@@ -31,7 +31,7 @@ $config['adminID'] = "@DIOS_SERBEROViP";
 | ID can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['logsID'] =  "https://t.me/DNFGH_hacking_Cracking";
+$config['logsID'] =  "https://t.me/+58ucVVSl1BszMzZl";
 
 /*
 |--------------------------------------------------------------------------
