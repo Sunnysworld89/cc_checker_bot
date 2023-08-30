@@ -48,10 +48,10 @@ $messagesec",
 	'reply_to_message_id'=> $message_id,
     'reply_markup'=>json_encode(['inline_keyboard' => [
         [
-          ['text' => "💠 Created By 💠", 'url' => "Diosserbero"]
+          ['text' => "⚜️ Created By ⚜️", 'url' => "Disconnected11"]
         ],
         [
-          ['text' => "💎 Source Code 💎", 'url' => "DioSserbero"]
+          ['text' => "©️ Source Code ©️", 'url' => "DioSserbero"]
         ],
       ], 'resize_keyboard' => true])
         
@@ -102,7 +102,7 @@ if(strpos($message, "/cmds") === 0 || strpos($message, "!cmds") === 0){
 <b>/apikey sk_live_xxx - Add SK Key for /schk gate</b>
 <b>/myapikey | !myapikey - View the added SK Key for /schk gate</b>
 
-<b>ϟ Join <a href='DioSSerbero'>DiosSerbero</a></b>",
+<b>ϟ Join <a href='empiremarket888>empiremarket888</a></b>",
     'parse_mode'=>'html',
     'disable_web_page_preview'=>true,
     'reply_markup'=>json_encode(['inline_keyboard'=>[
@@ -124,7 +124,7 @@ if(strpos($message, "/cmds") === 0 || strpos($message, "!cmds") === 0){
 <b>/bin | !bin</b> - Bin Lookup
 <b>/iban | !iban</b> - IBAN Checker
   
-  <b>ϟ Join <a href='DiosSerbero'></a></b>",
+  <b>ϟ Join <a href='empiremarket888></a></b>",
     'parse_mode'=>'html',
     'disable_web_page_preview'=>true,
     'reply_markup'=>json_encode(['inline_keyboard'=>[
